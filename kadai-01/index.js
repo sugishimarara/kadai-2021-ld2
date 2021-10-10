@@ -1,1 +1,1 @@
-console.log("無理")
+console.log("おはよう")
